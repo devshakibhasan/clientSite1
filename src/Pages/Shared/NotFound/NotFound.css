@@ -1,0 +1,7 @@
+.Notcontainer  {
+    display: flex;
+    justify-content: center;
+}
+.Notcontainer img {
+    height: 500px;
+}
